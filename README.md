@@ -1,5 +1,5 @@
 
-# Spring Boot Com PUB/SUB + Arquitetura Hexagonal
+# Spring Boot Com Storage GCP + Arquitetura Hexagonal
 
 Essa é uma API de upload de arquivo para o bucket do GCP, se autenticando com as crdenciais retornadas de por um cofre de senha.
 ## Documentação da API
